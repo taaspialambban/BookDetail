@@ -19,7 +19,7 @@ const PageRead = () => {
     return (
         
         <div className='flex'>    
-            <div>
+            <div className='gap-5'>
                 
                 <ResponsiveContainer width={250} height={300}>
                 <BarChart width={300} height={200} data={pages}>
