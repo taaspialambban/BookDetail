@@ -1,0 +1,81 @@
+[
+    {
+      "id": 1,
+      "bookName": "The Enigma Code",
+      "author": "Alex Harper",
+      "image": "https://i.ibb.co.com/BCKgfxb/fir-twig-stack-books-white-background.jpg",
+      "review": "A thrilling journey through the world of cryptography.",
+      "totalPages": 375,
+      "rating": 4.7,
+      "category": "Mystery",
+      "tags": ["thriller", "codebreaking", "suspense"],
+      "publisher": "Harper Press",
+      "yearOfPublishing": 2021
+    },
+    {
+      "id": 2,
+      "bookName": "Cooking Made Simple",
+      "author": "Ella Frost",
+      "image": "https://i.ibb.co.com/tCHKsWx/still-life-with-literature-concept.jpg",
+      "review": "A perfect guide for beginners in the kitchen.",
+      "totalPages": 200,
+      "rating": 4.3,
+      "category": "Cooking",
+      "tags": ["recipes", "easy meals", "kitchen tips"],
+      "publisher": "Culinary World",
+      "yearOfPublishing": 2019
+    },
+    {
+      "id": 3,
+      "bookName": "The Galactic Voyager",
+      "author": "Jared Stokes",
+      "image": "https://i.ibb.co.com/cSVwkB4X/top-view-pile-books.jpg",
+      "review": "An epic space adventure that captivates the imagination.",
+      "totalPages": 450,
+      "rating": 4.9,
+      "category": "Science Fiction",
+      "tags": ["space", "adventure", "futuristic"],
+      "publisher": "Stellar Reads",
+      "yearOfPublishing": 2023
+    },
+    {
+      "id": 4,
+      "bookName": "Mindset Mastery",
+      "author": "Sophia Lane",
+      "image": "https://i.ibb.co.com/C3BB2R2p/top-view-fresh-wonderful-flowers-book-gray-background.jpg",
+      "review": "An insightful read on personal growth and resilience.",
+      "totalPages": 310,
+      "rating": 4.6,
+      "category": "Self-Help",
+      "tags": ["growth", "motivation", "psychology"],
+      "publisher": "Better You Publishing",
+      "yearOfPublishing": 2020
+    },
+    {
+      "id": 5,
+      "bookName": "The Lost Kingdom",
+      "author": "Derek Stone",
+      "image": "https://i.ibb.co.com/JW6Wk2Np/book-with-tree-digital-art-style-education-day.jpg",
+      "review": "A breathtaking tale of ancient civilizations and hidden treasures.",
+      "totalPages": 385,
+      "rating": 4.8,
+      "category": "Adventure",
+      "tags": ["exploration", "history", "mystery"],
+      "publisher": "Adventure House",
+      "yearOfPublishing": 2022
+    },
+    {
+      "id": 6,
+      "bookName": "The Art of Illustration",
+      "author": "Maya Turner",
+      "image": "https://i.ibb.co.com/bfbJ68q/3d-view-books.jpg",
+      "review": "A comprehensive guide to mastering illustration techniques.",
+      "totalPages": 250,
+      "rating": 4.5,
+      "category": "Art",
+      "tags": ["drawing", "creativity", "design"],
+      "publisher": "Creative Minds",
+      "yearOfPublishing": 2018
+    }
+  ]
+  
